@@ -9,6 +9,19 @@
     /* object-position: 0 100%; */
     height: 400px;
 }
-.fonte-titulo{
+.font-titulo{
     font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred;
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
 }
